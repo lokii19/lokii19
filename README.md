@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lokii19
+- 👋 Hi, I’m LOKESH MS
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning angular,node js
 - 💞️ I’m looking to collaborate on website development
